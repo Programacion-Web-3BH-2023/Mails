@@ -1,0 +1,1 @@
+https://github.com/rnwood/smtp4dev/releases/download/3.2.0-ci20221023104/Rnwood.Smtp4dev.Desktop-win-x64-3.2.0-ci20221023104.zip
